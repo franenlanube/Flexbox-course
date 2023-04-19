@@ -1,8 +1,12 @@
 .container {
   border: 5px solid #ffcc5c;
   display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  justify-content: flex-end;
-  height: 100%;
+}
+
+.home {
+  flex: 1 1 200px;
+}
+
+.logout {
+  flex: 1 1 200px;
 }
