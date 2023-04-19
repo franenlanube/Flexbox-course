@@ -4,4 +4,6 @@
     justify-content: space-around;
   }
 
-  
+  .logout {
+    margin-left: auto;
+  }
