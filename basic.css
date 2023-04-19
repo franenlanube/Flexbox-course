@@ -11,8 +11,10 @@ body {
 
 html,
 body {
+  box-sizing: border-box;
+  height: 100%;
+  padding: 10px;
   background-color: #ffeead;
-  margin: 10px;
 }
 
 .container>div:nth-child(1) {
