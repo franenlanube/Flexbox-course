@@ -6,11 +6,3 @@
   justify-content: flex-end;
   height: 100%;
 }
-
-.logout {
-  align-self: flex-start;
-}
-
-.home {
-  align-self: flex-end;
-}
